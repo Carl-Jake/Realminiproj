@@ -1,2 +1,2 @@
-# Realminiproj
+# miniprojectt
 WEBdev
